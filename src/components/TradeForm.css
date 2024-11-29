@@ -1,0 +1,14 @@
+.trade-form {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .trade-form input,
+  .trade-form select,
+  .trade-form button {
+    margin-right: 0.5rem;
+  }
+  
+
+  
